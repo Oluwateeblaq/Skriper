@@ -1,0 +1,347 @@
+                        * {
+                            margin: 0;
+                            padding: 0;
+                            box-sizing: border-box;
+                        }
+                        
+                        .headers {
+                            display: flex;
+                            justify-content: space-around;
+                            padding-top: 15px;
+                            position: sticky;
+                            top: 0px;
+                        }
+                        
+                        .skr {
+                            width: 200px;
+                        }
+                        
+                        .bbody {
+                            background-color: black;
+                            height: auto;
+                            width: 100%;
+                        }
+                        
+                        .major {
+                            width: 80%;
+                            display: contents;
+                        }
+                        
+                        .icon {
+                            padding-left: 15px;
+                        }
+                        
+                        .headerright {
+                            display: flex;
+                            padding-left: 40%;
+                            padding-right: 5px;
+                        }
+                        
+                        .TFL {
+                            display: flex;
+                        }
+                        
+                        .T {
+                            font-family: arial;
+                            font-size: 12px;
+                            padding-left: 30px;
+                            color: white;
+                            text-decoration: none;
+                        }
+                        
+                        .SL {
+                            margin-left: 20px;
+                        }
+                        
+                        .start {
+                            padding: 10px;
+                            background-color: blue;
+                            border-radius: 3px;
+                            color: white;
+                            font-family: Arial;
+                            border: 1px solid blue;
+                            font-weight: bold;
+                        }
+                        
+                        .login {
+                            padding: 8px;
+                            margin-left: 10px;
+                            color: white;
+                            background: black;
+                            border: 1px solid white;
+                            border-radius: 5px;
+                        }
+                        
+                        .srch {
+                            padding: 8px;
+                            margin-left: 10px;
+                            background: black;
+                            border: 1px solid white;
+                            border-radius: 5px;
+                        }
+                        
+                        .img1 {
+                            margin-top: 70px;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            padding-top: 50px;
+                        }
+                        
+                        .text {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            font-size: 400%;
+                            word-spacing: 3px;
+                            font-family: arial;
+                            margin-bottom: 20px;
+                            margin-top: 10px;
+                            background-image: linear-gradient( to right, rgb(255, 0, 0) 20%, blue 70%, green 2%);
+                            -webkit-background-clip: text;
+                            color: transparent;
+                            min-height: 100%;
+                            width: 100%;
+                            float: center;
+                        }
+                        
+                        .text1 {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            font-size: 400%;
+                            word-spacing: 3px;
+                            font-family: arial;
+                            font-weight: bolder;
+                            background-image: linear-gradient( to right, rgb(255, 0, 0) 20%, blue 70%, green 2%);
+                            -webkit-background-clip: text;
+                            color: transparent
+                        }
+                        
+                        .playground {
+                            display: flex;
+                            justify-content: center;
+                            font-family: arial;
+                            font-size: 25px;
+                            letter-spacing: 0;
+                            font-weight: bolder;
+                            color: white;
+                        }
+                        
+                        .java {
+                            display: flex;
+                            justify-content: center;
+                        }
+                        
+                        .explore {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            font-family: arial;
+                            font-weight: bold;
+                            font-size: 20px;
+                            margin-top: 10px;
+                            color: white;
+                        }
+                        
+                        .third {
+                            display: flex;
+                            justify-content: center;
+                            margin-top: 20px;
+                        }
+                        
+                        .writeup {
+                            margin-top: 20px;
+                            display: flex;
+                            flex-direction: column;
+                        }
+                        
+                        .html {
+                            font-family: arial;
+                            padding-bottom: 10px;
+                            color: white;
+                            font-weight: bolder;
+                        }
+                        
+                        .chill {
+                            color: white;
+                            font-family: arial;
+                            padding-bottom: 10px;
+                            font-weight: bolder;
+                        }
+                        
+                        .css {
+                            font-family: arial;
+                            padding-bottom: 10px;
+                            font-weight: bolder;
+                            color: white;
+                        }
+                        
+                        .chill2 {
+                            color: white;
+                            font-family: arial;
+                            padding-bottom: 10px;
+                            font-weight: bolder;
+                        }
+                        
+                        .javasc {
+                            color: white;
+                            font-family: arial;
+                            padding-bottom: 10px;
+                            font-weight: bolder;
+                        }
+                        
+                        .chill3 {
+                            color: white;
+                            font-family: arial;
+                            padding-bottom: 10px;
+                            font-weight: bolder;
+                        }
+                        
+                        .social {
+                            display: flex;
+                            justify-content: center;
+                            margin-top: 30px;
+                        }
+                        
+                        .snippet {
+                            display: flex;
+                            justify-content: center;
+                            margin-top: 20px;
+                        }
+                        
+                        .tutorial {
+                            display: flex;
+                            justify-content: center;
+                            margin-top: 20px;
+                        }
+                        
+                        .mark {
+                            display: flex;
+                            justify-content: center;
+                            margin-top: 30px;
+                            padding-bottom: 40px;
+                        }
+                        
+                        .cd {
+                            margin-left: 40px;
+                            margin-top: 30px;
+                        }
+                        
+                        .code {
+                            font-family: arial;
+                            font-size: 30px;
+                            font-weight: bold;
+                            color: white;
+                        }
+                        
+                        .nip {
+                            font-family: arial;
+                            line-height: 30px;
+                            color: white;
+                        }
+                        
+                        .snip {
+                            color: white;
+                            font-family: arial;
+                            font-size: 30px;
+                            font-weight: bold;
+                        }
+                        
+                        .sn {
+                            margin-left: 40px;
+                            margin-top: 30px;
+                        }
+                        
+                        .Sn {
+                            font-family: arial;
+                            line-height: 30px;
+                        }
+                        
+                        .TT {
+                            margin-left: 40px;
+                            margin-top: 30px;
+                        }
+                        
+                        .tutor {
+                            font-family: arial;
+                            font-size: 30px;
+                            font-weight: bold;
+                            padding-top: 10px;
+                        }
+                        
+                        .tuto {
+                            font-family: arial;
+                            line-height: 30px;
+                        }
+                        
+                        .mrds {
+                            margin-left: 40px;
+                            margin-top: 30px;
+                        }
+                        
+                        .md {
+                            font-family: arial;
+                            font-size: 30px;
+                        }
+                        
+                        .Mrd {
+                            font-family: arial;
+                            line-height: 30px;
+                        }
+                        
+                        .footer {
+                            background-color: rgb(24, 22, 22);
+                            height: 100%;
+                            width: 100%;
+                        }
+                        
+                        .lnk {
+                            font-family: arial;
+                        }
+                        
+                        .footer {
+                            display: flex;
+                            justify-content: space-between;
+                            margin: 10px;
+                            padding-top: 50px;
+                            padding-left: 200px;
+                            padding-right: 200px;
+                        }
+                        
+                        .lnk {
+                            color: rgb(75, 72, 72);
+                            font-size: 15px;
+                        }
+                        
+                        .mini {
+                            margin-bottom: 30px;
+                        }
+                        
+                        ul li {
+                            list-style: none;
+                            padding-top: 10px;
+                        }
+                        
+                        ul li a {
+                            text-decoration: none;
+                            color: white;
+                            font-size: 12px;
+                            font-family: arial;
+                        }
+                        
+                        p {
+                            color: white;
+                            letter-spacing: 1px;
+                            font-size: 15px;
+                            font-family: arial;
+                        }
+                        
+                        .wa {
+                            background-image: linear-gradient(to right, rgb(255, 0, 0) 18%, blue 60%, green 2%);
+                            -webkit-background-clip: text;
+                            color: transparent;
+                            font-size: 15px;
+                            font-family: arial;
+                            padding-top: 5px;
+                        }
